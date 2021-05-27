@@ -1,0 +1,33 @@
+h1 {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+
+#journal {
+    color:brown;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 70px;
+    text-indent: 1%;
+    font-family: cursive;
+    background-image: radial-gradient(#ccbf74, #faefb4, white)
+}
+
+div {
+    margin: auto;
+    width: 300px;
+    border: 0px;
+    padding: 10px;
+}
+
+slog {
+    font-style: oblique;
+    width: 300px;
+    border: 0px;
+    padding: 10px;
+    align-self: center;
+}
+
+h1.center {
+    text-align: center;
+};
